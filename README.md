@@ -25,7 +25,7 @@
 
 ### 🚀 What I do
 
-- 🤖 **AI Agents & RAG** — Claude Code, OpenAI, Relevance AI, Supabase, Pinecone, Qdrant
+- 🤖 **AI Agents & RAG** — Claude Code, n8n, Relevance AI, Supabase, Pinecone, Qdrant
 - ☎️ **Voice AI** — VAPI, Retell, Twilio, Telnyx (inbound + outbound pipelines)
 - ⚙️ **Automation** — n8n, Make.com, Zapier, Power Automate
 - 🌐 **Web Apps** — Next.js, React, TypeScript, Tailwind, Supabase, Clerk
