@@ -25,7 +25,7 @@
 
 ### 🚀 What I do
 
-- 🤖 **AI Agents & RAG** — Claude Code, n8n, Relevance AI, Supabase, Pinecone, Qdrant
+- 🤖 **AI Agents & RAG** — Claude Code, OpenAI, Relevance AI, Supabase, Pinecone, Qdrant
 - ☎️ **Voice AI** — VAPI, Retell, Twilio, Telnyx (inbound + outbound pipelines)
 - ⚙️ **Automation** — n8n, Make.com, Zapier, Power Automate
 - 🌐 **Web Apps** — Next.js, React, TypeScript, Tailwind, Supabase, Clerk
@@ -72,7 +72,7 @@
 
 **Languages, Frameworks & Tools**
 
-![My Skills](https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,html,css,fastapi,php,supabase,postgres,mysql,selenium,wordpress,git,vercel,docker,postman)
+![My Skills](https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,html,css,fastapi,php,supabase,postgres,mysql,wordpress,git,vercel,docker,postman)
 
 ---
 
@@ -81,10 +81,6 @@
 <p align="center">
   <img src="https://mark-stats.vercel.app/api?username=markee2301&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
   <img src="https://mark-stats.vercel.app/api/top-langs/?username=markee2301&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=markee2301&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
