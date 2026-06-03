@@ -3,7 +3,9 @@
 <h3 align="center">AI Systems Engineer & Automation Expert · Manila, Philippines 🇵🇭</h3>
 
 <p align="center">
-  I build automation, AI agents, and intelligent systems that help businesses work smarter and scale faster. Always learning, always shipping.
+  I build automation, AI agents, and intelligent systems that help businesses work smarter and scale faster.
+  <br/>
+  Always learning, always shipping.
 </p>
 
 <p align="center">
@@ -15,9 +17,6 @@
   </a>
   <a href="mailto:hello@markanthonynavarro.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://n8n.markanthonynavarro.dev">
-    <img src="https://img.shields.io/badge/Self--hosted_n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   </a>
 </p>
 
