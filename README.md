@@ -71,6 +71,6 @@
 
 **Languages, Frameworks & Tools**
 
-![My Skills](https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,html,css,fastapi,php,supabase,postgres,mysql,wordpress,git,vercel,docker,postman)
+![My Skills](https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,html,css,fastapi,supabase,postgres,git,vercel,docker,postman)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
