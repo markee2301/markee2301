@@ -73,13 +73,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,html,css,fastapi,php,supabase,postgres,mysql,wordpress,git,vercel,docker,postman)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://mark-stats.vercel.app/api?username=markee2301&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-  <img src="https://mark-stats.vercel.app/api/top-langs/?username=markee2301&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
-</p>
-
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
