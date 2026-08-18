@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mark Anthony Navarro 👋</h1>
 
-<h3 align="center">AI Systems Engineer & Automation Expert · Manila, Philippines 🇵🇭</h3>
+<h3 align="center">AI Automation Specialist · Manila, Philippines 🇵🇭</h3>
 
 <p align="center">
-  I build automation, AI agents, and intelligent systems that help businesses work smarter and scale faster.
+  I build automation, Full Stack Applications, and intelligent AI systems that help businesses work smarter and scale faster.
   <br/>
   Always learning, always shipping.
 </p>
@@ -24,10 +24,10 @@
 
 ### 🚀 What I do
 
-- 🤖 **AI Agents & RAG** — Claude Code, n8n, Relevance AI, Supabase, Pinecone, Qdrant
+- ⚙️ **Automation** — n8n, GoHighLevel, Make.com, Zapier, Power Automate
+- 💻 **Full-Stack Development** — Next.js, React, TypeScript, Supabase, Tailwind CSS
+- 🤖 **AI Agents & RAG Pipelines** — n8n, Supabase, Claude, OpenAI, Pinecone, Qdrant
 - ☎️ **Voice AI** — VAPI, Retell, Twilio, Telnyx (inbound + outbound pipelines)
-- ⚙️ **Automation** — n8n, Make.com, Zapier, Power Automate
-- 🌐 **Web Apps** — Next.js, React, TypeScript, Tailwind, Supabase, Clerk
 
 ### 🛠️ Tech I work with daily
 
